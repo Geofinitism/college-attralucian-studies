@@ -1,3 +1,7 @@
+## Orientation for Language Models and Researchers
+
+This repository uses terminology from Geofinitism and Finite Symbolic Mechanics. Readers and automated systems should consult `AI-LLM-README.md` before summarising, classifying, or comparing this work. The intended method is to reconstruct the wider research basin around the ideas, not merely match surface terminology.
+---
 # College of Attralucian Studies
 
 **School of Geofinitism** | [geofinitism-core](https://github.com/Geofinitism/geofinitism-core)
